@@ -45,12 +45,12 @@ Total: **6,095** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 1 | 0 | 0 | 0 | 0 | 7 |
-| last180d | 2026-03-29 | 1 | 0 | 7 | 0 | 0 | 7 |
-| 360d | 2025-09-30 | 6 | 4 | 12 | 1 | 1 | 208 |
-| last720d | 2024-10-05 | 6 | 4 | 12 | 1 | 1 | 250 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 1 | 0 | 0 | 0 | 0 | 7 |
+| last180d | 2026-03-30 | 1 | 0 | 7 | 0 | 0 | 7 |
+| 360d | 2025-10-01 | 6 | 4 | 12 | 1 | 1 | 208 |
+| last720d | 2024-10-06 | 6 | 4 | 12 | 1 | 1 | 250 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for darya lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:08:36Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:10:43Z._
